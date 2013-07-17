@@ -1,0 +1,17 @@
+{
+    "name": "jasmine.async",
+    "version": "1.0.0",
+    "description": "Make Jasmine's asynchronous testing suck less.",
+    "author": "Derick Bailey <derickbailey@gmail.com>",
+    "keywords": [
+        "jasmine",
+        "async",
+        "unit",
+        "test",
+        "browser"
+    ],
+    "scripts": [
+        "lib/jasmine.async.js"
+    ],
+    "main": "lib/jasmine.async.js"
+}
